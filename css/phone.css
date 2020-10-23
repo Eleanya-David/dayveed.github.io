@@ -1,0 +1,101 @@
+@media only screen and (max-width:790px){
+    .nav_left h1{
+        font-size: 21px;
+    }
+    .nav_right a{
+        font-size: 13.7px !important;
+    }
+    .intro-text h2{
+        font-size: 20px;
+    }
+    .about-intro h2{
+        font-size: 24px;
+    }
+    .contact-before{
+        justify-content:center;
+        align-items: center;
+        flex-flow: column wrap;
+    }
+    .contact-before-left,
+    .contact-before-right{
+        width: 100%;
+    }
+    .features{
+        justify-content: center;
+        align-items: center;
+    }
+    .features-1,
+    .features-2{
+        margin-right: 0px;
+        margin-bottom: 20px;
+    }
+    .text-center-about{
+        font-size: 15px;
+        color: #00BBEC;
+    }
+    .text-center-products{
+        font-size: 27px;
+    }
+
+    .products-1,
+    .products-2,
+    .products-3,
+    .products-4,
+    .products-5,
+    .products-6,
+    .products-7,
+    .products-8,
+    .products-10,
+    .products-11,
+    .products-12{
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+    .message-1 input{
+        font-family: monospace;
+        padding: 20px;
+        width: 290px;
+        margin-bottom: 15px;
+    }   
+    .message-1{
+        flex-flow: column wrap;
+    }
+
+    .message-2 textarea{
+        width: 290px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .describe h2{
+        font-size: 13px;
+    }
+    .describe img{
+        width: 182px;
+    }
+    
+
+    .copyright{
+        transition: all 4s ease-out;
+        font-size: 12px;
+    }
+
+    .copyright h2{
+        font-size: 11px;
+    }
+    .copyright img{
+        width: 47px;
+    }
+    .intro{
+        margin-top: 80px;
+    }
+
+    .explain{
+        width: 300px;
+    }
+
+
+
+
+
+}
